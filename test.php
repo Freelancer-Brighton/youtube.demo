@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World</title>
+</head>
+<body>
 <?php
 
 class sumeet{                                        // this is a class
@@ -17,4 +23,8 @@ echo $obj->getprop(); //calling the method like a normal function.
 $obj->setprop("This is second class property"); //setting a new value by calling the method
 
 echo $obj->getprop();  //echoing the new value of the method
+
+
 ?>
+</body>
+</html>
